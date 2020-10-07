@@ -1,0 +1,13 @@
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\bin\Debug\netcoreapp3.1\SORTVERCTOR.exe
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\bin\Debug\netcoreapp3.1\SORTVERCTOR.deps.json
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\bin\Debug\netcoreapp3.1\SORTVERCTOR.runtimeconfig.json
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\bin\Debug\netcoreapp3.1\SORTVERCTOR.runtimeconfig.dev.json
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\bin\Debug\netcoreapp3.1\SORTVERCTOR.dll
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\bin\Debug\netcoreapp3.1\SORTVERCTOR.pdb
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\obj\Debug\netcoreapp3.1\SORTVERCTOR.csprojAssemblyReference.cache
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\obj\Debug\netcoreapp3.1\SORTVERCTOR.AssemblyInfoInputs.cache
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\obj\Debug\netcoreapp3.1\SORTVERCTOR.AssemblyInfo.cs
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\obj\Debug\netcoreapp3.1\SORTVERCTOR.csproj.CoreCompileInputs.cache
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\obj\Debug\netcoreapp3.1\SORTVERCTOR.dll
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\obj\Debug\netcoreapp3.1\SORTVERCTOR.pdb
+C:\Users\endi.dyrmyshi\Documents\SORTVERCTOR\SORTVERCTOR\obj\Debug\netcoreapp3.1\SORTVERCTOR.genruntimeconfig.cache
