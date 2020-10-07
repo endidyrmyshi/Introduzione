@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\endi.dyrmyshi\\Documents\\SORTVERCTOR\\SORTVERCTOR\\SORTVERCTOR.csproj": {}
+    "C:\\Users\\endi.dyrmyshi\\Documents\\CLONE\\CLONE\\SORTVECTOR\\SORTVERCTOR\\SORTVERCTOR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\endi.dyrmyshi\\Documents\\SORTVERCTOR\\SORTVERCTOR\\SORTVERCTOR.csproj": {
+    "C:\\Users\\endi.dyrmyshi\\Documents\\CLONE\\CLONE\\SORTVECTOR\\SORTVERCTOR\\SORTVERCTOR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\endi.dyrmyshi\\Documents\\SORTVERCTOR\\SORTVERCTOR\\SORTVERCTOR.csproj",
+        "projectUniqueName": "C:\\Users\\endi.dyrmyshi\\Documents\\CLONE\\CLONE\\SORTVECTOR\\SORTVERCTOR\\SORTVERCTOR.csproj",
         "projectName": "SORTVERCTOR",
-        "projectPath": "C:\\Users\\endi.dyrmyshi\\Documents\\SORTVERCTOR\\SORTVERCTOR\\SORTVERCTOR.csproj",
+        "projectPath": "C:\\Users\\endi.dyrmyshi\\Documents\\CLONE\\CLONE\\SORTVECTOR\\SORTVERCTOR\\SORTVERCTOR.csproj",
         "packagesPath": "C:\\Users\\endi.dyrmyshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\endi.dyrmyshi\\Documents\\SORTVERCTOR\\SORTVERCTOR\\obj\\",
+        "outputPath": "C:\\Users\\endi.dyrmyshi\\Documents\\CLONE\\CLONE\\SORTVECTOR\\SORTVERCTOR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
